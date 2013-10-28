@@ -1,0 +1,23 @@
+Done with loop number 10
+Done with loop number 20
+Done with loop number 30
+Done with loop number 40
+Done with loop number 50
+Done with loop number 60
+Done with loop number 70
+Done with loop number 80
+Done with loop number 90
+Done with loop number 100
+Done with loop number 110
+Done with loop number 120
+Done with loop number 130
+Done with loop number 140
+Done with loop number 150
+Done with loop number 160
+Done with loop number 170
+Time Elapsed: 35.5606520176
+Best Cost: 0
+Best Layout:
+[[3, 0], [0, 0], [0, 6], [6, 1], [1, 2], [3, 4]]
+[[3, 3], [1, 5], [4, 1], [1, 0], [2, 4], [2, 0]]
+[[3, 1], [5, 2], [1, 1], [2, 3], [2, 2], [0, 4]]
